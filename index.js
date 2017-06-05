@@ -37,6 +37,4 @@ class ConvertToBinary {
   }
 }
 
-
-
 new ConvertToBinary("input-box-hook");
